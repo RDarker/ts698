@@ -1,0 +1,24 @@
+{
+  "name": "ts698",
+  "description": "698组帧、解帧ts库",
+  "main": "dl698/index.ts",
+  "keywords": [
+    "ts698",
+    "698",
+    "axdr",
+    "asn1"
+  ],
+  "author": "wind",
+  "contributors": [
+    "wind"
+  ],
+  "license": "MIT",
+  "version": "1.0.0",
+  "dependencies": {
+    "@types/node": "^17.0.22"
+  },
+  "devDependencies": {
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
+  }
+}
